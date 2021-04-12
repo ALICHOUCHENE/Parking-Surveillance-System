@@ -61,12 +61,23 @@ This intelligent parking system based on image processing and implimented using 
  
 - Installing Zbar package : 
 
- pip3 install pyzbar
+    pip3 install pyzbar
 
 - Install imutils 
 
- pip3 install imutils
+    pip3 install imutils
 
+# Installing qQR-Code package : 
+
+pip install qrcode
+
+pip install qrcode[pil]
+
+# Installing pytesseract package : 
+
+sudo apt-get install tesseract-ocr
+
+pip install pytesseract
 
 
 
