@@ -59,15 +59,15 @@ This intelligent parking system based on image processing and implimented using 
 
  sudo apt-get install libqt4-test –y
  
-- Installing Zbar package : 
+ **Installing Zbar package :** 
 
-    pip3 install pyzbar
+ pip3 install pyzbar
 
-- Install imutils 
+ **Install imutils :**
 
-    pip3 install imutils
+ pip3 install imutils
 
-# Installing qQR-Code package : 
+# Installing QR-Code package : 
 
 pip install qrcode
 
