@@ -1,4 +1,4 @@
-### System Overview
+## System Overview
 
 This intelligent parking system based on image processing and implimented using a raspberry pi4 incorporates three main functionalities:
 - Motion detection in the parking for security reasons.
@@ -45,7 +45,7 @@ This intelligent parking system based on image processing and implimented using 
 
 # Installing Pyzbar module : 
 
-- Installing the required dependencies :
+ **Installing the required dependencies :**
 
  sudo apt-get install libhdf5-dev -y 
 
