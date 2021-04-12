@@ -27,17 +27,17 @@ This intelligent parking system based on image processing and implimented using 
 
  sudo apt-get install libatlas-base-dev gfortran
 
-# Installing Python 3 and Pip3:
+# Installing Python 3 and Pip3 :
 
  sudo apt-get install python3-dev
 
  sudo apt-get install python3-pip
 
-# Installing Opencv package:
+# Installing Opencv package :
 
  pip3 install opencv-python
 
-# Extra depencies for Opencv and the Camera:
+# Extra depencies for Opencv and the Camera :
 
  sudo apt-get install libqtgui4
 
